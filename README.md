@@ -16,3 +16,11 @@ Sign Language Recognition via Skeleton-Aware Multi-Model Ensemble
 https://github.com/jackyjsy/SAM-SLR-v2
 
 This dataset is word-based dataset, so, it will be followed by NLP methods to transfer to text.
+
+dataset English-ASL Gloss Parallel Corpus 2012: ASLG-PC12 for Sign Language to English translation
+
+https://paperswithcode.com/dataset/aslg-pc12
+
+Text to sign language converter 
+
+https://wecapable.com/tools/text-to-sign-language-converter/
